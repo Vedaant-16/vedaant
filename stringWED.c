@@ -1,4 +1,4 @@
-//vidit saran agarwal
+//vedaant pandey
 //1
 // #include<stdio.h>
 // #include<string.h>
